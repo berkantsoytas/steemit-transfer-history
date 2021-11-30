@@ -1,0 +1,18 @@
+.preview {
+  font-size: 19px;
+  background-color: #f4f4f4;
+  max-height: 400px;
+}
+.rowan{
+  width: 30%;
+}
+.root {
+  width: 50%;
+}
+.empty {
+  width: 100%;
+}
+
+table{
+  overflow: auto;
+}
