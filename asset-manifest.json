@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/steemit-transfer-history/static/css/main.d86b3792.chunk.css",
+    "main.js": "/steemit-transfer-history/static/js/main.e71f6d5f.chunk.js",
+    "main.js.map": "/steemit-transfer-history/static/js/main.e71f6d5f.chunk.js.map",
+    "runtime-main.js": "/steemit-transfer-history/static/js/runtime-main.1e043732.js",
+    "runtime-main.js.map": "/steemit-transfer-history/static/js/runtime-main.1e043732.js.map",
+    "static/js/2.0e66f5af.chunk.js": "/steemit-transfer-history/static/js/2.0e66f5af.chunk.js",
+    "static/js/2.0e66f5af.chunk.js.map": "/steemit-transfer-history/static/js/2.0e66f5af.chunk.js.map",
+    "index.html": "/steemit-transfer-history/index.html",
+    "static/css/main.d86b3792.chunk.css.map": "/steemit-transfer-history/static/css/main.d86b3792.chunk.css.map",
+    "static/js/2.0e66f5af.chunk.js.LICENSE.txt": "/steemit-transfer-history/static/js/2.0e66f5af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e043732.js",
+    "static/js/2.0e66f5af.chunk.js",
+    "static/css/main.d86b3792.chunk.css",
+    "static/js/main.e71f6d5f.chunk.js"
+  ]
+}
